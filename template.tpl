@@ -1,4 +1,12 @@
-﻿___INFO___
+___TERMS_OF_SERVICE___
+
+By creating or modifying this file you agree to Google Tag Manager's Community
+Template Gallery Developer Terms of Service available at
+https://developers.google.com/tag-manager/gallery-tos (or such other URL as
+Google may provide), as modified from time to time.
+
+
+___INFO___
 
 {
   "displayName": "Yandex Metrica (ES)",
@@ -1241,6 +1249,7 @@ ___NOTES___
 # Publicación primera versión 19.06.2019
 
 # Actualización 25.09.2019
+
 # - Añadido parámetro trustedDomains en la inicialización
 # - Añadido parámetro childIframe en la inicialización
 # - Añadido parámetro userParams en la inicialización
@@ -1250,6 +1259,7 @@ ___NOTES___
 # - Optimización de código
 
 # Actualización 31.07.2020
+
 # - Añadido parámetros de coste de objetivo al evento hit
 # - Añadido parámetros de coste de objetivo al evento reachGoal
 # - Añadido parámetros de coste de objetivo al evento file

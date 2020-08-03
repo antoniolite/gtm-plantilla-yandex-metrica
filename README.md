@@ -48,7 +48,7 @@ Permite configurar el código de seguimiento de Yandex Metrica:
 
 Permite también activar el modo de depuración (debug) nativo de Yandex Metrica.
 
-Es recomendable la lectura de estos tres artículos para conocer todas las funcionalidades y características de la plantilla:
+Es recomendable la lectura de estos tres artículos para conocer todas las funcionalidades y características de la plantilla. En ellos se explican con detalle todas las funciones que se han ido añadiendo:
 
 [Plantilla de Yandex Metrica para GTM](https://www.antoniolite.com/2019/06/plantilla-de-yandex-metrica-para-gtm/)
 

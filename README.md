@@ -4,6 +4,7 @@ Esta plantilla personalizada (no oficial) permite implementar **Yandex Metrica**
 
 **Por el momento está disponible en español.**
 
+* [Histórico de cambios y actualizaciones](https://www.antoniolite.com/plantilla-de-yandex-metrica-para-gtm/)
 * [Más información sobre Yandex Metrica](https://metrica.yandex.com)
 * [Documentación de Yandex Metrica](https://yandex.com/support/metrica/index.html)
 

@@ -52,7 +52,7 @@ Es recomendable la lectura de estos tres artículos para conocer todas las funci
 
 [Plantilla de Yandex Metrica para GTM](https://www.antoniolite.com/2019/06/plantilla-de-yandex-metrica-para-gtm/)
 
-[Plantilla de Yandex Metrica para GTM (actualización)](https://www.antoniolite.com/2019/09/plantilla-de-yandex-metrica-para-gtm-actualizacion/)
+[Plantilla de Yandex Metrica para GTM (09.2019)](https://www.antoniolite.com/2019/09/plantilla-de-yandex-metrica-para-gtm-09-2019/)
 
 [Plantilla de Yandex Metrica para GTM (07.2020)](https://www.antoniolite.com/2020/07/plantilla-de-yandex-metrica-para-gtm-07-2020)
 

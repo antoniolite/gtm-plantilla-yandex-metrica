@@ -4,9 +4,9 @@ Esta plantilla personalizada (no oficial) permite implementar **Yandex Metrica**
 
 **Por el momento está disponible en español.**
 
-* [Histórico de cambios y actualizaciones](https://www.antoniolite.com/plantilla-de-yandex-metrica-para-gtm/)
-* [Más información sobre Yandex Metrica](https://metrica.yandex.com)
-* [Documentación de Yandex Metrica](https://yandex.com/support/metrica/index.html)
+- [Histórico de cambios y actualizaciones](https://www.antoniolite.com/plantilla-de-yandex-metrica-para-gtm/)
+- [Más información sobre Yandex Metrica](https://metrica.yandex.com)
+- [Documentación de Yandex Metrica](https://yandex.com/support/metrica/index.html)
 
 # Autor
 
@@ -60,23 +60,23 @@ Es recomendable la lectura de estos tres artículos para conocer todas las funci
 
 ## 31.07.2020
 
-* Añadidas las opciones para indicar coste de objetivo (_order\_price_ y _currency_)
-* Reorganización de algunos bloques de campos
-* Solución de pequeños bugs
-* Optimización de código
+- Añadidas las opciones para indicar coste de objetivo (_order\_price_ y _currency_)
+- Reorganización de algunos bloques de campos
+- Solución de pequeños bugs
+- Optimización de código
 
 ## 25.09.2019
 
-* Añadido parámetro childIframe en la inicialización de la etiqueta
-* Añadido parámetro trustedDomains en la inicialización de la etiqueta
-* Añadido parámetro userParams en la inicialización de la etiqueta
-* Añadido parámetro triggerEvent en la inicialización de la etiqueta
-* Solucionado bug con el método setUserId
-* Solucionado bug al añadir extensiones de fichero para monitorizar
-* Mejoras en la interfaz de configuración de la etiqueta
-* Optimización de código
+- Añadido parámetro childIframe en la inicialización de la etiqueta
+- Añadido parámetro trustedDomains en la inicialización de la etiqueta
+- Añadido parámetro userParams en la inicialización de la etiqueta
+- Añadido parámetro triggerEvent en la inicialización de la etiqueta
+- Solucionado bug con el método setUserId
+- Solucionado bug al añadir extensiones de fichero para monitorizar
+- Mejoras en la interfaz de configuración de la etiqueta
+- Optimización de código
 
 ## 16.06.2019
 
-* Versión inicial
+- Versión inicial
 

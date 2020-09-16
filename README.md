@@ -1,12 +1,12 @@
-# Plantilla de Yandex Metrica para GTM
+# Plantilla de Yandex.Metrica para GTM
 
-Esta plantilla personalizada (no oficial) permite implementar **Yandex Metrica** con Google Tag Manager.
+Esta plantilla personalizada (no oficial) permite implementar **Yandex.Metrica** con Google Tag Manager.
 
-**Por el momento está disponible en español.**
+**También disponible en ruso e inglés.**
 
 - [Histórico de cambios y actualizaciones](https://www.antoniolite.com/plantilla-de-yandex-metrica-para-gtm/)
-- [Más información sobre Yandex Metrica](https://metrica.yandex.com)
-- [Documentación de Yandex Metrica](https://yandex.com/support/metrica/index.html)
+- [Más información sobre Yandex.Metrica](https://metrica.yandex.com)
+- [Documentación de Yandex.Metrica](https://yandex.com/support/metrica/index.html)
 
 # Autor
 
@@ -28,7 +28,7 @@ La plantilla permite la configuración de los siguientes métodos:
 
 Admite la configuración de parámetros y opciones para todos los métodos que lo permiten, incluido el coste del objetivo y divisa (_order\_price_ y _currency_)
 
-Permite configurar el código de seguimiento de Yandex Metrica:
+Permite configurar el código de seguimiento de Yandex.Metrica:
 
 - No enviar datos automáticamente
 - Bloquear indexación de la página
@@ -46,21 +46,30 @@ Permite configurar el código de seguimiento de Yandex Metrica:
 - Parámetros de sesión
 - Parámetros de usuario
 
-Permite también activar el modo de depuración (debug) nativo de Yandex Metrica.
+Permite también activar el modo de depuración (debug) nativo de Yandex.Metrica.
 
 Es recomendable la lectura de estos tres artículos para conocer todas las funcionalidades y características de la plantilla. En ellos se explican con detalle todas las funciones que se han ido añadiendo:
 
-[Plantilla de Yandex Metrica para GTM](https://www.antoniolite.com/2019/06/plantilla-de-yandex-metrica-para-gtm/)
+[Plantilla de Yandex.Metrica para GTM](https://www.antoniolite.com/2019/06/plantilla-de-yandex-metrica-para-gtm/)
 
-[Plantilla de Yandex Metrica para GTM (09.2019)](https://www.antoniolite.com/2019/09/plantilla-de-yandex-metrica-para-gtm-09-2019/)
+[Plantilla de Yandex.Metrica para GTM (09.2019)](https://www.antoniolite.com/2019/09/plantilla-de-yandex-metrica-para-gtm-09-2019/)
 
-[Plantilla de Yandex Metrica para GTM (07.2020)](https://www.antoniolite.com/2020/07/plantilla-de-yandex-metrica-para-gtm-07-2020)
+[Plantilla de Yandex.Metrica para GTM (07.2020)](https://www.antoniolite.com/2020/07/plantilla-de-yandex-metrica-para-gtm-07-2020)
 
 # Actualizaciones
 
+## 16.09.2020
+
+- Revisión de textos
+- Disponible versión en inglés
+- Disponible versión en ruso
+
 ## 31.07.2020
 
-- Añadidas las opciones para indicar coste de objetivo (_order\_price_ y _currency_)
+- Añadido parámetros de coste de objetivo al evento hit
+- Añadido parámetros de coste de objetivo al evento reachGoal
+- Añadido parámetros de coste de objetivo al evento file
+- Añadido parámetros de coste de objetivo al evento extLink
 - Reorganización de algunos bloques de campos
 - Solución de pequeños bugs
 - Optimización de código

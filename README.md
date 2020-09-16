@@ -4,15 +4,20 @@ Esta plantilla personalizada (no oficial) permite implementar **Yandex.Metrica**
 
 **También disponible en ruso e inglés.**
 
+- https://github.com/antoniolite/gtm-shablon-yandex-metrica
+- https://github.com/antoniolite/gtm-template-yandex-metrica
+
+## Enlaces de interés
+
 - [Histórico de cambios y actualizaciones](https://www.antoniolite.com/plantilla-de-yandex-metrica-para-gtm/)
 - [Más información sobre Yandex.Metrica](https://metrica.yandex.com)
 - [Documentación de Yandex.Metrica](https://yandex.com/support/metrica/index.html)
 
-# Autor
+## Autor
 
 Antonio Lite (https://www.antoniolite.com/)
 
-# Información
+## Información
 
 La plantilla permite la configuración de los siguientes métodos:
 
@@ -50,21 +55,19 @@ Permite también activar el modo de depuración (debug) nativo de Yandex.Metrica
 
 Es recomendable la lectura de estos tres artículos para conocer todas las funcionalidades y características de la plantilla. En ellos se explican con detalle todas las funciones que se han ido añadiendo:
 
-[Plantilla de Yandex.Metrica para GTM](https://www.antoniolite.com/2019/06/plantilla-de-yandex-metrica-para-gtm/)
+- [Plantilla de Yandex.Metrica para GTM](https://www.antoniolite.com/2019/06/plantilla-de-yandex-metrica-para-gtm/)
+- [Plantilla de Yandex.Metrica para GTM (09.2019)](https://www.antoniolite.com/2019/09/plantilla-de-yandex-metrica-para-gtm-09-2019/)
+- [Plantilla de Yandex.Metrica para GTM (07.2020)](https://www.antoniolite.com/2020/07/plantilla-de-yandex-metrica-para-gtm-07-2020)
 
-[Plantilla de Yandex.Metrica para GTM (09.2019)](https://www.antoniolite.com/2019/09/plantilla-de-yandex-metrica-para-gtm-09-2019/)
+## Actualizaciones
 
-[Plantilla de Yandex.Metrica para GTM (07.2020)](https://www.antoniolite.com/2020/07/plantilla-de-yandex-metrica-para-gtm-07-2020)
-
-# Actualizaciones
-
-## 16.09.2020
+### 16.09.2020
 
 - Revisión de textos
 - Disponible versión en inglés
 - Disponible versión en ruso
 
-## 31.07.2020
+### 31.07.2020
 
 - Añadido parámetros de coste de objetivo al evento hit
 - Añadido parámetros de coste de objetivo al evento reachGoal
@@ -74,7 +77,7 @@ Es recomendable la lectura de estos tres artículos para conocer todas las funci
 - Solución de pequeños bugs
 - Optimización de código
 
-## 25.09.2019
+### 25.09.2019
 
 - Añadido parámetro childIframe en la inicialización de la etiqueta
 - Añadido parámetro trustedDomains en la inicialización de la etiqueta
@@ -85,7 +88,7 @@ Es recomendable la lectura de estos tres artículos para conocer todas las funci
 - Mejoras en la interfaz de configuración de la etiqueta
 - Optimización de código
 
-## 16.06.2019
+### 16.06.2019
 
 - Versión inicial
 

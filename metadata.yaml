@@ -15,10 +15,12 @@
 homepage: "https://www.antoniolite.com"
 documentation: "https://www.antoniolite.com/plantilla-de-yandex-metrica-para-gtm/"
 versions:
+  # Latest version
   - sha: 3ada867fa28a2a54c7abef5f4c5a3ab32a229c3f
-    changeNotes: |3
-      Revisión de textos
-      Disponible versión en inglés
-      Disponible versión en ruso
+    changeNotes: |2
+      Revisión de textos.
+      Disponible versión en inglés.
+      Disponible versión en ruso.
+  # Older versions
   - sha: 80dd28b6ecacb0eaa50362d5775cc7f661d98a04
-    changeNotes: Versión inicial
+    changeNotes: Versión inicial.
